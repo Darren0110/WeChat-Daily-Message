@@ -11,5 +11,8 @@
 - Use this to send daily greetings to love ones, special message on important dates.
 - Gets data from Api and display different information everyday.
 
+<br />
+
 ## Tools and Configuration 
+- Using the [Github Actions]([https://platformio.org/lib/show/2575/M5Stack-SD-Updater](https://docs.github.com/en/actions) features to Automates the build through defineing the workflow inside 'weixin.yml'. 
 
