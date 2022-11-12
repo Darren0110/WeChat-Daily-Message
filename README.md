@@ -1,6 +1,6 @@
 # WeChat-Daily-Message
 
-<img src="[drawing.jpg](https://user-images.githubusercontent.com/102897343/201457682-2a0e9133-e4e0-4bce-b711-597de11b066f.jpg)" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/102897343/201457682-2a0e9133-e4e0-4bce-b711-597de11b066f.jpg" width="200"/>
 
 
 <br />
