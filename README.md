@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/102897343/201457682-2a0e9133-e4e0-4bce-b711-597de11b066f.jpg" width="100"/>
+<img src="https://user-images.githubusercontent.com/102897343/201457682-2a0e9133-e4e0-4bce-b711-597de11b066f.jpg" width="200"/>
 
 <br />
 
@@ -39,3 +39,9 @@
 <img width="535" alt="Screen Shot 2022-11-13 at 5 13 49 PM" src="https://user-images.githubusercontent.com/102897343/201505364-41e581bd-33a4-42d2-bf62-5a5a62db1454.png">
 
 <br />
+
+**3) Copy and post the following code inside the newly created folder.** <br />
+**4) Press `Start commit` then `Commit new file`.** <br />
+
+<img width="459" alt="Screen Shot 2022-11-13 at 5 45 51 PM" src="https://user-images.githubusercontent.com/102897343/201506211-87b0d475-8dc2-45eb-8855-a3d543e7aaef.png">
+
