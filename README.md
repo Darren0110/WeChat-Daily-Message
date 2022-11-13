@@ -26,3 +26,14 @@
 - Python as the main programming language.
 - Uses the [Requests library](https://realpython.com/python-requests/) to fetch requests to api.
 
+<br /> 
+
+## Set up Workflow in Github Action
+
+**1) Click on the action tap when you are currently inside the repository.**
+
+<img width="833" alt="Screen Shot 2022-11-13 at 4 59 30 PM" src="https://user-images.githubusercontent.com/102897343/201505200-982d7154-9907-4494-9c0c-d1aaa2c725e3.png">
+
+<br />
+**2)
+
