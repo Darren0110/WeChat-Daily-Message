@@ -8,13 +8,21 @@
 
 ## About
 - Send daily Wechat message to users subscribed to the public sandbox account(WeChat), the message is send at a pre-defined time.
-- Use this to send daily greetings to love ones, special message on important dates or daily information like weather and temperatures.
-- Gets data from Api and display different information everyday.
+- Use this to send daily greetings to love ones, special message on important dates or daily informations like weather and temperatures.
+
+<br />
+
+## Features
+- Current date.
+- Daily chinese ancient poetry.
+- Daily chinese/English motivational line.
+- The number of days before a birthday.
+
 
 <br />
 
 ## Tools and Configuration 
-- Using the [Github Actions](https://docs.github.com/en/actions) features to Automates the build through defineing the workflow inside 'weixin.yml'.
+- Using the [Github Actions](https://docs.github.com/en/actions) features to Automates the build through defineing the workflow inside `weixin.yml`.
 - Python as the main programming language.
 - Uses the [Requests library](https://realpython.com/python-requests/) to fetch requests to api.
 
