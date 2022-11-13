@@ -41,6 +41,39 @@
 <br />
 
 **3) Copy and post the following code inside the newly created folder.** <br />
+
+```C
+
+name: weixin
+on:
+  workflow_dispatch:
+  schedule: 
+    # This represent global time 21:30
+    - cron: '30 21 * * *'
+jobs:
+# Combine all the works/jobs in the workflow
+  build:
+    runs-on: ubuntu-latest 
+    steps:
+      - uses: actions/checkout@v2
+    
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9.1
+      - name: Set timezone
+        run: |
+          cp /usr/share/zoneinfo/Oceania/Auckland /etc/localtime
+      - name: install pip packages
+        run: |
+          python -m pip install --upgrade pip
+          pip3 install -r requirements.txt
+      - name: weixin
+        run: |
+          python3 main.py
+          
+ ```
+ <br />
 **4) Press `Start commit` then `Commit new file`.** <br />
 
 <img width="459" alt="Screen Shot 2022-11-13 at 5 45 51 PM" src="https://user-images.githubusercontent.com/102897343/201506211-87b0d475-8dc2-45eb-8855-a3d543e7aaef.png">
