@@ -30,10 +30,12 @@
 
 ## Set up Workflow in Github Action
 
-**1) Click on the action tap when you are currently inside the repository.**
-
-<img width="833" alt="Screen Shot 2022-11-13 at 4 59 30 PM" src="https://user-images.githubusercontent.com/102897343/201505200-982d7154-9907-4494-9c0c-d1aaa2c725e3.png">
+**1) Click on the action tap when you are currently inside the repository. **
+<img width="533" alt="Screen Shot 2022-11-13 at 4 59 30 PM" src="https://user-images.githubusercontent.com/102897343/201505324-f7dee3a8-1dde-44f6-af69-17cab61fc1c4.png">
 
 <br />
-**2)
 
+**2) Click on the `set up a workflow yourself` link. **
+<img width="535" alt="Screen Shot 2022-11-13 at 5 13 49 PM" src="https://user-images.githubusercontent.com/102897343/201505364-41e581bd-33a4-42d2-bf62-5a5a62db1454.png">
+
+<br />
