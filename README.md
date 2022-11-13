@@ -75,7 +75,8 @@ jobs:
  ```
  <br />
  
-**4) Press `Start commit` then `Commit new file`.**  <br />
+**4) Press `Start commit` then `Commit new file` at the top right of the scrren.**  <br />
 
-<img width="459" alt="Screen Shot 2022-11-13 at 5 45 51 PM" src="https://user-images.githubusercontent.com/102897343/201506211-87b0d475-8dc2-45eb-8855-a3d543e7aaef.png">
+<img width="446" alt="Screen Shot 2022-11-13 at 5 45 51 PM" src="https://user-images.githubusercontent.com/102897343/201506443-c218bcd2-06b1-4793-a3a3-6298d1b22fc8.png">
+
 
