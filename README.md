@@ -88,7 +88,7 @@ jobs:
 <br />
 **3) Edit `config.txt` according to the instructions in the file**
 <br />
-###Fill in the personal details display in [WeChat Testing Platform](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login) to `config.txt`
+### Fill in the personal details display in [WeChat Testing Platform](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login) to `config.txt`
 <br />
 ![Capture](https://user-images.githubusercontent.com/102897343/202341286-1ce67bc2-b820-4d69-8cb6-fbd88219cf18.PNG)
 <br /> 
@@ -100,6 +100,13 @@ jobs:
 ### Model ID.
 ![Capture](https://user-images.githubusercontent.com/102897343/202346298-ccd0106c-2dfc-4a7b-b723-d138fe7795ad.PNG)
 <br />
+
+## Edit Message
+- Edit the input box of `Model Title` to change the headings/title of the message.
+- Edit the input box of `Model Content` to change the content of the message.
+- Use `{{xxx.DATA}}` to display information, where `xxx` is the variable in `config.txt`.
+
+
 
 
 **4) Goes into the "Action" tab and run the workflow**
