@@ -93,10 +93,11 @@ jobs:
 Fill in the personal details display in [WeChat Testing Platform](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login) to `config.txt`
 <br />
 
+### 
 - ![Capture](https://user-images.githubusercontent.com/102897343/202345779-4e18fda6-f580-4750-b23d-81e7d23822be.PNG)
 <br />
 
-# Model ID
+### Model ID
 - ![Capture](https://user-images.githubusercontent.com/102897343/202346298-ccd0106c-2dfc-4a7b-b723-d138fe7795ad.PNG)
 
 
