@@ -94,7 +94,7 @@ Fill in the personal details display in [WeChat Testing Platform](https://mp.wei
 <br /> 
 
 ### Scan the QR code to subscribe to the message.
-![Capture](https://user-images.githubusercontent.com/102897343/202345779-4e18fda6-f580-4750-b23d-81e7d23822be.PNG)
+![Capture](https://user-images.githubusercontent.com/102897343/202349042-5c4a9bf4-2b89-4271-aee2-11a101f2d203.PNG)
 <br />
 
 ### Model ID.
@@ -106,6 +106,7 @@ Fill in the personal details display in [WeChat Testing Platform](https://mp.wei
 - Edit the input box of `Model Title` to change the headings/title of the message.
 - Edit the input box of `Model Content` to change the content of the message.
 - Use `{{xxx.DATA}}` to display information, where `xxx` is the variable in `config.txt`.
+
 
 
 
