@@ -93,12 +93,13 @@ jobs:
 Fill in the personal details display in [WeChat Testing Platform](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login) to `config.txt`
 <br />
 
-### 
-- ![Capture](https://user-images.githubusercontent.com/102897343/202345779-4e18fda6-f580-4750-b23d-81e7d23822be.PNG)
+### Scan the QR code to subscribe to the message.
+![Capture](https://user-images.githubusercontent.com/102897343/202345779-4e18fda6-f580-4750-b23d-81e7d23822be.PNG)
 <br />
 
-### Model ID
-- ![Capture](https://user-images.githubusercontent.com/102897343/202346298-ccd0106c-2dfc-4a7b-b723-d138fe7795ad.PNG)
+### Model ID.
+![Capture](https://user-images.githubusercontent.com/102897343/202346298-ccd0106c-2dfc-4a7b-b723-d138fe7795ad.PNG)
+<br />
 
 
 **4) Goes into the "Action" tab and run the workflow**
