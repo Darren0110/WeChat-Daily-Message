@@ -103,7 +103,6 @@ Fill in the personal details display in [WeChat Testing Platform](https://mp.wei
 
 ## Edit Message
 - Click on "Add new Testing module"
- <br />
 - Edit the input box of `Module Title` to change the headings/title of the message.
 - Edit the input box of `Module Content` to change the content of the message.
 - Use `{{xxx.DATA}}` to display information, where `xxx` is the variable in `config.txt`.
