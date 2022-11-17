@@ -79,4 +79,11 @@ jobs:
 
 <img width="446" alt="Screen Shot 2022-11-13 at 5 45 51 PM" src="https://user-images.githubusercontent.com/102897343/201506443-c218bcd2-06b1-4793-a3a3-6298d1b22fc8.png">
 
+<br />
+
+## How to use 
+**1) Clone the respiratory onto your Github**
+**2) Setup WorkFlow**
+**3) Edit config.txt 
+
 
