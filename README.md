@@ -89,7 +89,9 @@ jobs:
 **3) Edit `config.txt` according to the instructions in the file**
 <br />
 ![Capture](https://user-images.githubusercontent.com/102897343/202341286-1ce67bc2-b820-4d69-8cb6-fbd88219cf18.PNG)
-<br /> Fill in the personal details display in [WeChat Testing Platform](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login) to `config.txt`
+<br /> 
+Fill in the personal details display in [WeChat Testing Platform](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login) to `config.txt`
+<br />
 
 **4) Goes into the "Action" tab and run the workflow**
 <br />
