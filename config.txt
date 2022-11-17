@@ -1,24 +1,29 @@
 {
 # Config for WeChat Public Account (公众号配置)
 # 公众号appId
-"app_id": "wx73905aab540a72c9",
+"app_id": "Put In Your App ID",
 # 公众号appSecret
-"app_secret": "a34c7030def8fc263e865c82bc499da7",
+"app_secret": "",
 # 模板消息id
-"template_id": "oJzD12k6bykYGxVUmRaf2QZ7aTx4c2FZQNuoRnlfVE4",
+"template_id": "Put In Your Template ID",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["ou7jH6ObiQQYeFASIa3cwJm1T2f0"],
+# User Who are receving the message, in the format of ["UserId_1", "UserId_2"]
+"user": [""],
  
 # 信息配置
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+# Location 
 "region": "Auckland New Zealand",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "大宝贝", "birthday": "2000-03-27"},
-# 生日2
-"birthday2": {"name": "Darren", "birthday": "1999-01-10"},
-# 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2022-08-06",
+# Birthday of a person1
+"birthday1": {"name": "Name of person", "birthday": "birthday of person"},
+# Birthday of a person2
+"birthday2": {"name": "Name of person2", "birthday": "birthday of person2"},
+# 在一起的日子 
+# Set up a Love date where the system will calculates the time since together.
+"love_date": "yyyy-mm-dd",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+# Daily motivational line.
 "note_ch": "",
 # 金句英文
 "note_en": "",
