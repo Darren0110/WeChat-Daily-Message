@@ -106,7 +106,7 @@ Fill in the personal details display in [WeChat Testing Platform](https://mp.wei
 - Edit the input box of `Module Title` to change the headings/title of the message.
 - Edit the input box of `Module Content` to change the content of the message.
 - Use `{{xxx.DATA}}` to display information, where `xxx` is the variable in `config.txt`.
-- ### Some example 
+### Some data example 
 - {{date.DATA}} Current Date
 - {{note_en.DATA}} Motivational line in English
 - {{note_ch.DATA}} Motivational line in Chinese
