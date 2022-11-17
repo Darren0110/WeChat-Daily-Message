@@ -97,19 +97,22 @@ Fill in the personal details display in [WeChat Testing Platform](https://mp.wei
 ![Capture](https://user-images.githubusercontent.com/102897343/202349042-5c4a9bf4-2b89-4271-aee2-11a101f2d203.PNG)
 <br />
 
-### Module ID.
+### Module ID
 ![Capture](https://user-images.githubusercontent.com/102897343/202348654-35865156-cf08-4e08-b567-d3adbe3e968f.PNG)
 <br />
 
 ## Edit Message
 - Click on "Add new Testing module"
+ <br />
 - Edit the input box of `Module Title` to change the headings/title of the message.
 - Edit the input box of `Module Content` to change the content of the message.
 - Use `{{xxx.DATA}}` to display information, where `xxx` is the variable in `config.txt`.
-
-
-
-
+- ### Some example 
+-- {{date.DATA}} Current Date
+-- {{note_en.DATA}} Motivational line in English
+-- {{note_ch.DATA}} Motivational line in Chinese
+-- {{birthday1.DATA}} Days untile person1's birthday
+-- {{poem_content.DATA}} Daily Chinese ancient poem.
 
 **4) Goes into the "Action" tab and run the workflow**
 <br />
