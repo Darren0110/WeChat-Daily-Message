@@ -86,7 +86,9 @@ jobs:
 <br />
 **2) Setup WorkFlow**
 <br />
-**3) Edit `config.txt`**
+**3) Edit `config.txt` according to the instructions in the file**
+<br />
+**4) Goes into the "Action" tab and run the workflow**
 <br />
 
 
