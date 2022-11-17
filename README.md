@@ -107,11 +107,11 @@ Fill in the personal details display in [WeChat Testing Platform](https://mp.wei
 - Edit the input box of `Module Content` to change the content of the message.
 - Use `{{xxx.DATA}}` to display information, where `xxx` is the variable in `config.txt`.
 ### Some data example 
-- {{date.DATA}} Current Date
-- {{note_en.DATA}} Motivational line in English
-- {{note_ch.DATA}} Motivational line in Chinese
-- {{birthday1.DATA}} Days untile person1's birthday
-- {{poem_content.DATA}} Daily Chinese ancient poem.
+- `{{date.DATA}}` Current Date
+- `{{note_en.DATA}}` Motivational line in English
+- `{{note_ch.DATA}}` Motivational line in Chinese
+- `{{birthday1.DATA}}` Days untile person1's birthday
+- `{{poem_content.DATA}}` Daily Chinese ancient poem.
 
 **4) Goes into the "Action" tab and run the workflow**
 <br />
