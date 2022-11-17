@@ -83,7 +83,10 @@ jobs:
 
 ## How to use 
 **1) Clone the respiratory onto your Github**
+<br />
 **2) Setup WorkFlow**
-**3) Edit config.txt 
+<br />
+**3) Edit `config.txt`**
+<br />
 
 
